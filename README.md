@@ -34,8 +34,8 @@ Atualmente estou aprofundando meus conhecimentos como **desenvolvedor fullstack*
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/albertleme)
-- Email: albertleme@exemplo.com
+- [LinkedIn]((https://www.linkedin.com/in/albert-leme-de-brito/))
+- Email: albertlemebrito@gmail.com
 
 ---
 
