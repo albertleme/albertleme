@@ -1,31 +1,42 @@
-### Olá, meu nome é Albert Leme 👋
+# 👋 Olá, eu sou o Albert Leme
 
-<h1>:books:Habilidades</h1>
-<p><strong>Linguagens que estudo</strong></p>
-<ul>
-  <li>Java</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JS</li>
-</ul>
-<p><strong>Tecnologias com que trabalho</strong></p>
-<ul>
-  <li>Power Apps</li>
-  <li>Power Automate</li>
-  <li>Sharepoint</li>
-</ul>
-<p><strong>Ferramentas de Desenvolvimento</strong></p>
-<ul>
-  <li>Visual Studio Code</li>
-  <li>Git</li>
-  <li>Github</li>
-  <li>Jira</li>
-</ul>
-<h1>:globe_with_meridians:Redes Sociais</h1>
-<p>
-  <a href="https://www.linkedin.com/in/albert-leme-de-brito-a91129215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpzIiApHLTkmKFFjTABjgbQ%3D%3D" target="blank">     <img src="<i class="fa-brands fa-linkedin"></i>
-  </a>
-  <a href="mailto:albertlemebrito@gmail.com">
-    <img src="">
-  </a>
-</p>
+Sou desenvolvedor com foco em **C# e .NET**, apaixonado por construir soluções robustas, escaláveis e limpas, tanto em aplicações web quanto em integrações com APIs. Estou constantemente aprendendo e aprimorando minhas habilidades no ecossistema .NET, incluindo ASP.NET, Entity Framework, e desenvolvimento de APIs REST.
+
+🚀 Também tenho sólida experiência com a **Microsoft Power Platform**, atuando principalmente com **Power Apps** e **Power Automate**, criando aplicações low-code e automações que impactam diretamente operações de grandes empresas, otimizando tempo e reduzindo custos.
+
+---
+
+## 🛠️ Tecnologias que utilizo
+
+- **Linguagens**: C#, JavaScript, HTML/CSS, SQL
+- **Plataformas**: .NET, ASP.NET, Entity Framework, LINQ
+- **Cloud**: Azure (Functions, Logic Apps, Key Vault, Storage)
+- **Power Platform**: Power Apps, Power Automate, Dataverse, SharePoint
+- **Ferramentas**: Git, Visual Studio, Visual Studio Code, Postman, Swagger
+
+---
+
+## 📌 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| `Shift Report App` | Aplicativo para controle de turnos e KPIs operacionais. | Power Apps, Power Automate, SharePoint |
+| `Controle de Presença` | App para registrar e acompanhar presença em eventos. | Power Apps, Power Automate |
+| `API de Produtos` | API REST em .NET com CRUD completo e autenticação JWT. | ASP.NET Core, EF Core, Swagger |
+
+---
+
+## 🎯 Objetivo atual
+
+Atualmente estou aprofundando meus conhecimentos como **desenvolvedor fullstack** com foco em tecnologias **open source** e **.NET**, visando atuar em projetos mais complexos com backend e integração entre sistemas.
+
+---
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/albertleme)
+- Email: albertleme@exemplo.com
+
+---
+
+🧠 *“Aprender algo novo todos os dias é parte do processo.”*
