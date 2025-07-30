@@ -25,6 +25,9 @@ Sou desenvolvedor com foco em **C# e .NET**, apaixonado por construir soluções
 | `API de Produtos` | API REST em .NET com CRUD completo e autenticação JWT. | ASP.NET Core, EF Core, Swagger |
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ## 🎯 Objetivo atual
 
